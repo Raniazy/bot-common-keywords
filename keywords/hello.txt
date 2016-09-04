@@ -3,3 +3,6 @@ hi
 howdy
 hey
 yo
+Salut
+bonjour
+what's up
